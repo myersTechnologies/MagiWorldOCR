@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5752b381-4421-4e1c-be8c-9d616a86338d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Joueur1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Attributs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1853">
+              <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Joueur2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/com/myersthecnologies/Joueur1Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MagiWorld" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Guerrier.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Mage.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Stats.java" />
+        <option value="$PROJECT_DIR$/Test/com/magiworld/StatsTest.java" />
+        <option value="$PROJECT_DIR$/Test/com/myersthecnologies/Joueur2Test.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Rodeur.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Personnages.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Joueur2.java" />
+        <option value="$PROJECT_DIR$/Test/com/myersthecnologies/AttributsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Joueur1.java" />
+        <option value="$PROJECT_DIR$/Test/com/myersthecnologies/Joueur1Test.java" />
+        <option value="$PROJECT_DIR$/src/com/myersthecnologies/Attributs.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MagiWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagiWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MagiWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagiWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MagiWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagiWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="myersthecnologies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MagiWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagiWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MagiWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagiWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="myersthecnologies" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553255769292" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.myersthecnologies" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException">
+    <configuration name="AttributsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MagiWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myersthecnologies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myersthecnologies" />
+      <option name="MAIN_CLASS_NAME" value="com.myersthecnologies.AttributsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttributsTest.setNiveau" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MagiWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myersthecnologies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myersthecnologies" />
+      <option name="MAIN_CLASS_NAME" value="com.myersthecnologies.AttributsTest" />
+      <option name="METHOD_NAME" value="setNiveau" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttributsTest.setPersonnage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MagiWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myersthecnologies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myersthecnologies" />
+      <option name="MAIN_CLASS_NAME" value="com.myersthecnologies.AttributsTest" />
+      <option name="METHOD_NAME" value="setPersonnage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Joueur1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MagiWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myersthecnologies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myersthecnologies" />
+      <option name="MAIN_CLASS_NAME" value="com.myersthecnologies.Joueur1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MagiWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myersthecnologies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myersthecnologies" />
+      <option name="MAIN_CLASS_NAME" value="com.myersthecnologies.Joueur1Test" />
+      <option name="METHOD_NAME" value="Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" />
+        <item itemvalue="JUnit.Joueur1Test" />
+        <item itemvalue="JUnit.AttributsTest.setPersonnage" />
+        <item itemvalue="JUnit.AttributsTest.setNiveau" />
+        <item itemvalue="JUnit.AttributsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5752b381-4421-4e1c-be8c-9d616a86338d" name="Default Changelist" comment="" />
+      <created>1552511237001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552511237001</updated>
+      <workItem from="1552511242508" duration="1480000" />
+      <workItem from="1552560656376" duration="46785000" />
+      <workItem from="1553248851130" duration="4642000" />
+      <workItem from="1553256558952" duration="4885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.18 at 09h 39m 40s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.18 at 09h 40m 05s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test - 2019.03.18 at 09h 40m 33s.xml">
+      <configuration name="Joueur1Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 05m 08s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 10m 14s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 11m 12s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 13m 08s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 13m 55s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 14m 19s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Joueur1Test_Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException - 2019.03.22 at 11h 15m 00s.xml">
+      <configuration name="Joueur1Test.Given_More_Life_ToMage_When_SpecialAttackSoin_Then_ThrowException" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57792000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50093806" side_tool="true" weight="0.25192803" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4990619" visible="true" weight="0.25835475" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3192848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32950193" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32950193" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.50093806" side_tool="true" weight="0.25192803" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4990619" visible="true" weight="0.25835475" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3192848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32950193" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32950193" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Stats.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Actions.java" />
+    <entry file="file://$PROJECT_DIR$/Test/com/magiworld/StatsTest.java" />
+    <entry file="file://$PROJECT_DIR$/Test/com/myersthecnologies/Joueur2Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Guerrier.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Mage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Rodeur.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Personnages.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="1539" selection-start-line="1539" selection-end-line="1539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/myersthecnologies/AttributsTest.java" />
+    <entry file="file://$PROJECT_DIR$/Test/com/myersthecnologies/Joueur1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Attributs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Joueur1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myersthecnologies/Joueur2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MagiWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
